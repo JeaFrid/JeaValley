@@ -6,12 +6,12 @@ JeaValley, 1.4 sürümüyle dağıtılmaktadır. Güncelleme notlarını okuyunu
 JeaValley, oyun tutkunu toplulukların aynı vadide buluştuğu özgün bir sosyal medya deneyimidir. Güncellemelerini paylaş, ekip arkadaşlarını keşfet, dijital eşyalarını vitrine çıkar ve JeaValley Özgün Ses Altyapısı ile sohbetlerde yerini al. Her şey oyuncular için tasarlandı; karmaşık terimlere gerek yok, sadece oyuna ve topluluğa odaklan.
 
 ## Platformlar
-- [Android](https://google.com)
+- [Android](https://github.com/JeaFrid/JeaValley/releases/latest)
 - [Web](https://jeafriday.com)
 - Apple iPhone | Destek Sağlanmadı.
-- Windows | Destek Sağlanmadı.
+- Windows | Çok Yakında Yayında.
 - macOS | Destek Sağlanmadı.
-- Linux | Destek Sağlanmadı.
+- Linux | Çok Yakında Yayında.
 
 > JeaValley, oyuncu topluluklarını tek vadide birleştirir. Nerede olursan ol, oyuna dair söyleyeceklerin burada yankı bulur.
 

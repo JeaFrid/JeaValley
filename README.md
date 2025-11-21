@@ -8,7 +8,7 @@ JeaValley, oyun tutkunu toplulukların aynı vadide buluştuğu özgün bir sosy
 ## Platformlar
 - [Android](https://github.com/JeaFrid/JeaValley/releases/latest)
 - [Web](https://jeafriday.com)
-- [Apple Iphone]() | PWA Desteği
+- [Apple Iphone](https://github.com/JeaFrid/JeaValley/blob/main/README.md#-iphone-safari) | PWA Desteği
 - [Windows](https://github.com/JeaFrid/JeaValley/blob/main/README.md#-windows-edge-chrome-brave) | PWA Desteği
 - [macOS](https://github.com/JeaFrid/JeaValley/blob/main/README.md#-macos-safari-chrome-edge) | PWA Desteği
 - [Linux](https://github.com/JeaFrid/JeaValley/blob/main/README.md#-linux-chrome-edge-brave) | PWA Desteği

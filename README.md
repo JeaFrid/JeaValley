@@ -15,7 +15,56 @@ JeaValley, oyun tutkunu toplulukların aynı vadide buluştuğu özgün bir sosy
 
 > JeaValley, oyuncu topluluklarını tek vadide birleştirir. Nerede olursan ol, oyuna dair söyleyeceklerin burada yankı bulur.
 
+## Sanal App ile Platformu Kullanmak
+Uygulama Progressive Web App olarak Web'de yayına verilmiştir: Progressive Web App, normal web siteden farklı olarak "Cihaza indirilebilir" versiyondadır. Cihazınıza kurulum yapabilirsiniz;
 
+
+### 🟦 Windows (Edge, Chrome, Brave)
+
+#### ⭐ Microsoft Edge
+1. Siteyi açın.
+2. Sağ üstteki **… menüsüne** tıklayın.
+3. **“Uygulama olarak yükle”** seçeneğini seçin.
+4. “Yükle” butonuna tıklayın.
+5. Artık masaüstü ve Başlat menüsünde uygulama olarak görünür.
+
+#### ⭐ Google Chrome
+1. Siteyi açın.
+2. Adres çubuğunun sağında **“Yükle” (bilgisayar simgesi)** çıkacaktır.
+3. Bu butona tıklayın.
+4. Açılan pencerede “Yükle” deyin.
+
+#### ⭐ Brave / Opera
+Chrome ile aynıdır.  
+Adres çubuğundaki **Install / Yükle** simgesine tıklayın.
+
+---
+
+### 🟩 macOS (Safari, Chrome, Edge)
+
+#### ⭐ Safari (Ventura 13+)
+1. Safari ile siteyi açın.
+2. Üst menüden **File → Add to Dock** seçin.
+3. “Web App olarak ekle” penceresi açılır.
+4. Onaylayarak Dock’a ekleyin.
+
+#### ⭐ Google Chrome / Microsoft Edge
+1. Siteyi açın.
+2. Adres çubuğunda **“Install / Yükle”** simgesi belirecektir.
+3. Simgeye tıklayın → “Yükle” deyin.
+4. Uygulama Dock’a bir macOS uygulaması gibi eklenir.
+
+---
+
+### 🟧 Linux (Chrome, Edge, Brave)
+
+#### ⭐ Chrome / Edge / Brave
+1. Siteyi açın.
+2. Adres çubuğunda **Install / Yükle** butonu görünür.
+3. Tıklayın → “Install” deyin.
+4. Uygulama **menüye**, **masaüstüne** ve **uygulamalar listesine** eklenir.
+
+> GNOME kullanıyorsanız uygulama “Uygulamalar” menüsünde görünür.
 
 ## Platformun Amacı
 - **Oyuncuyu Sahneye Taşı:** Takım özetlerini, turnuva planlarını ve anlık düşüncelerini tek akışta topla.

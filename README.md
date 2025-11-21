@@ -8,10 +8,11 @@ JeaValley, oyun tutkunu toplulukların aynı vadide buluştuğu özgün bir sosy
 ## Platformlar
 - [Android](https://github.com/JeaFrid/JeaValley/releases/latest)
 - [Web](https://jeafriday.com)
-- Apple iPhone | Destek Sağlanmadı.
-- Windows | Çok Yakında Yayında.
-- macOS | Destek Sağlanmadı.
-- Linux | Çok Yakında Yayında.
+- [Apple Iphone]() | PWA Desteği
+- [Windows](https://github.com/JeaFrid/JeaValley/blob/main/README.md#-windows-edge-chrome-brave) | PWA Desteği
+- [macOS](https://github.com/JeaFrid/JeaValley/blob/main/README.md#-macos-safari-chrome-edge) | PWA Desteği
+- [Linux](https://github.com/JeaFrid/JeaValley/blob/main/README.md#-linux-chrome-edge-brave) | PWA Desteği
+
 
 > JeaValley, oyuncu topluluklarını tek vadide birleştirir. Nerede olursan ol, oyuna dair söyleyeceklerin burada yankı bulur.
 
@@ -65,6 +66,19 @@ Adres çubuğundaki **Install / Yükle** simgesine tıklayın.
 4. Uygulama **menüye**, **masaüstüne** ve **uygulamalar listesine** eklenir.
 
 > GNOME kullanıyorsanız uygulama “Uygulamalar” menüsünde görünür.
+
+---
+
+### 🟪 iPhone (Safari)
+
+#### ⭐ Safari (iOS 16.4+)
+1. Safari’de siteyi açın.
+2. Alt çubuktaki **Paylaş** (kutu + yukarı ok) ikonuna tıklayın.
+3. Aşağı kaydırın → **Ana Ekrana Ekle** seçeneğini bulun.
+4. İsmi belirleyin → “Ekle” deyin.
+5. Uygulama ana ekrana bir iOS uygulaması gibi eklenir.
+
+
 
 ## Platformun Amacı
 - **Oyuncuyu Sahneye Taşı:** Takım özetlerini, turnuva planlarını ve anlık düşüncelerini tek akışta topla.

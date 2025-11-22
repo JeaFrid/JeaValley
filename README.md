@@ -1,5 +1,5 @@
 # JeaValley
-JeaValley, 1.4 sürümüyle dağıtılmaktadır. Güncelleme notlarını okuyunuz.
+JeaValley, 1.5 sürümüyle dağıtılmaktadır. [Güncelleme notlarını okuyunuz.](https://github.com/JeaFrid/JeaValley/releases/latest)
 
 ![JeaValley Afişi](https://raw.githubusercontent.com/JeaFrid/JeaValley/refs/heads/main/FrontPic.jpg)
 

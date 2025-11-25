@@ -94,3 +94,6 @@ Hayır. Ayar değişiklikleri geçicidir ve arama sona erince otomatik olarak ge
 ## 5. Sonuç
 
 JeaValley, talep ettiği tüm Android izinlerini yalnızca sunulan özellikleri sağlamak için kullanır. Gereğinden fazla veri işlenmez, medya içerikleri saklanmaz ve tüm izinler kullanıcı kontrolündedir. Bu doküman, uygulamanın izin kullanımını şeffaf ve anlaşılır biçimde açıklamayı amaçlar. Sorularınız için destek kanallarımızla iletişime geçebilirsiniz.
+
+## 6. Hesap Silme
+JeaValley'de hesap silmek için destek kutusuna silmek istediğiniz hesap hakkında talepte bulunabilirsiniz.
